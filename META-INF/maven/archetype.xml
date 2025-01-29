@@ -1,9 +1,9 @@
 <archetype>
-  <id>untitled1</id>
+  <id>HDT2</id>
   <sources>
-    <source>src/main/java/App.java</source>
+    <source>src/main/App.java</source>
   </sources>
   <testSources>
-    <source>src/test/java/AppTest.java</source>
+    <source>src/test/AppTest.java</source>
   </testSources>
 </archetype>
