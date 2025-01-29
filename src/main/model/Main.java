@@ -1,6 +1,4 @@
-package uvg.hdt2;
-
-import main.model.PostfixCalculator;
+package main.model;
 
 public class Main {
     public static void main(String[] args) {
