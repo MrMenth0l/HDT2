@@ -1,6 +1,6 @@
-import java.util.Vector;
+package main.model;
 
-import main.model.IStack;
+import java.util.Vector;
 
 
 public class VectorStack<T> implements IStack<T> {

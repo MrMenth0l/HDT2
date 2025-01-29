@@ -3,7 +3,7 @@ package main.model;
 import java.io.IOException;
 
 
-public interface ICalculator {
+public interface IPostfixCalculator {
 
     void readFromFile(String path) throws IOException;
 
