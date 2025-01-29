@@ -1,3 +1,4 @@
+package main.model;
 /**
  * Interfaz genérica para la estructura de datos Pila (Stack).
  */
