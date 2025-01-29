@@ -1,7 +1,9 @@
+package main.model;
+
 import java.io.IOException;
 
 
-public interface IPostfixCalculator {
+public interface ICalculator {
 
     void readFromFile(String path) throws IOException;
 
